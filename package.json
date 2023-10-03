@@ -8,5 +8,9 @@
     },
     "keywords": [],
     "author": "Stream Protocol",
-    "license": "MIT"
+    "license": "MIT",
+    "dependencies": {
+        "@solana/wallet-standard-wallet-adapter-react": "^1.1.1",
+        "solana-encryption": "^1.0.9"
+    }
 }
