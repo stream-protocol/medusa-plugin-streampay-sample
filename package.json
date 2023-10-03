@@ -1,0 +1,12 @@
+{
+    "name": "medusa-plugin-streampay-sample",
+    "version": "1.0.0",
+    "description": "The StreamPay Plugin is an integration for Medusa Commerce that enables cryptocurrency and blockchain-based payments.",
+    "main": "packages/medusa-plugin-streampay/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Stream Protocol",
+    "license": "MIT"
+}
